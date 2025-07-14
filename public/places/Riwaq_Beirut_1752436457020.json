@@ -1,0 +1,19 @@
+{
+  "id": 1752436457020,
+  "name": "Riwaq Beirut",
+  "lat": 33.895268,
+  "lon": 35.531909,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 81953643",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n❌ No accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "no",
+  "toilet": "no"
+}

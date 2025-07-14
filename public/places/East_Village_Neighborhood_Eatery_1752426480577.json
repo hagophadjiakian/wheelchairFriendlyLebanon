@@ -1,0 +1,19 @@
+{
+  "id": 1752426480577,
+  "name": "East Village Neighborhood Eatery",
+  "lat": 33.885841,
+  "lon": 35.516358,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01327375",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n❌ No accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "no",
+  "seating": "yes",
+  "toilet": "no"
+}

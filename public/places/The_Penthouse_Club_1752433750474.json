@@ -1,0 +1,19 @@
+{
+  "id": 1752433750474,
+  "name": "The Penthouse Club",
+  "lat": 33.877432,
+  "lon": 35.516884,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 70995552",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n❌ No accessible entrance\n❌ No accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "no",
+  "seating": "no",
+  "toilet": "yes"
+}

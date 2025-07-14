@@ -1,0 +1,19 @@
+{
+  "id": 1752421978199,
+  "name": "Gia La Cucina d'Amore",
+  "lat": 33.8907306,
+  "lon": 35.5048075,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "https://gialacucinadamore.com/?fbclid=PAAablvlj5VOUAoXmLqpPr3vKnsxai6IDF_lpAxVsMonJaEIxnJ5jUeajXOkk",
+  "contact": "",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

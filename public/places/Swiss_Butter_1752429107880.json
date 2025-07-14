@@ -1,0 +1,19 @@
+{
+  "id": 1752429107880,
+  "name": "Swiss Butter",
+  "lat": 33.895062,
+  "lon": 35.512694,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "https://swissbutter.com/",
+  "contact": "+961 01444480",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

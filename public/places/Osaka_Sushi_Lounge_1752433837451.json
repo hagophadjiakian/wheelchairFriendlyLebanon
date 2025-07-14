@@ -1,0 +1,19 @@
+{
+  "id": 1752433837451,
+  "name": "Osaka Sushi Lounge",
+  "lat": 33.896826,
+  "lon": 35.496156,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01360630",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n❌ No accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "no",
+  "toilet": "yes"
+}

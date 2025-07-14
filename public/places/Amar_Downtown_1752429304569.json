@@ -1,0 +1,19 @@
+{
+  "id": 1752429304569,
+  "name": "Amar Downtown",
+  "lat": 33.90055,
+  "lon": 35.499691,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "http://www.amarrestaurants.com/",
+  "contact": "+961 01988188",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 5,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

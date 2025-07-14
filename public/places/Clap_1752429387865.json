@@ -1,0 +1,19 @@
+{
+  "id": 1752429387865,
+  "name": "Clap",
+  "lat": 33.897711,
+  "lon": 35.507244,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "https://claprestaurant.com/beirut/",
+  "contact": "+961 70633888",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 5,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

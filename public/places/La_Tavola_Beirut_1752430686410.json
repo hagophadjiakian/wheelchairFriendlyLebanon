@@ -1,0 +1,19 @@
+{
+  "id": 1752430686410,
+  "name": "La Tavola Beirut",
+  "lat": 33.881651,
+  "lon": 35.495989,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "https://latavola-lb.com/",
+  "contact": "+961 81985959",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "✅ Accessible parking\n❌ No accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "no",
+  "seating": "yes",
+  "toilet": "no"
+}

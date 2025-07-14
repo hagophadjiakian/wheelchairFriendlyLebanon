@@ -1,0 +1,19 @@
+{
+  "id": 1752434716394,
+  "name": "Neo beirut",
+  "lat": 33.87599,
+  "lon": 35.517908,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 03501444",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

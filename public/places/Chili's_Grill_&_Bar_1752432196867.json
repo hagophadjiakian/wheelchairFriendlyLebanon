@@ -1,0 +1,19 @@
+{
+  "id": 1752432196867,
+  "name": "Chili's Grill & Bar",
+  "lat": 33.88696,
+  "lon": 35.516605,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01337171",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 5,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1752435682955,
+  "name": "Mosaic Restaurant",
+  "lat": 33.900566,
+  "lon": 35.493699,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01357027",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 5,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

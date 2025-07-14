@@ -1,0 +1,19 @@
+{
+  "id": 1752436745931,
+  "name": "Deli.co",
+  "lat": 33.889359,
+  "lon": 35.495775,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01999736",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

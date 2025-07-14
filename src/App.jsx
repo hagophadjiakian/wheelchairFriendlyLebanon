@@ -47,10 +47,34 @@ export default function App() {
   });
 
   // ✅ Load Overpass + manual places once and cleanly
-  useEffect(() => {
-    const loadPlaces = async () => {
-      const manualPlaces = JSON.parse(localStorage.getItem("manualPlaces")) || [];
+useEffect(() => {
+  const loadPlaces = async () => {
+    let filenames = [];
+    let manualPlaces = [];
 
+    // Load filenames from index.json
+    try {
+      const res = await fetch("/places/index.json");
+      filenames = await res.json();
+    } catch (err) {
+      console.error("❌ Could not load /places/index.json", err);
+      return;
+    }
+
+    // Load each .json place file
+    for (const filename of filenames) {
+      try {
+        const res = await fetch(`/places/${filename}`);
+        const place = await res.json();
+        manualPlaces.push(place);
+      } catch (err) {
+        console.warn(`⚠️ Failed to load: ${filename}`, err);
+      }
+    }
+
+    // Optional: Overpass data
+    let overpassPlaces = [];
+    try {
       const query = `
         [out:json][timeout:25];
         area[name="Lebanon"]->.searchArea;
@@ -59,37 +83,35 @@ export default function App() {
         );
         out center;
       `;
+      const res = await axios.post(
+        "https://overpass-api.de/api/interpreter",
+        `data=${encodeURIComponent(query)}`,
+        { headers: { "Content-Type": "application/x-www-form-urlencoded" } }
+      );
 
-      try {
-        const res = await axios.post(
-          "https://overpass-api.de/api/interpreter",
-          `data=${encodeURIComponent(query)}`,
-          { headers: { "Content-Type": "application/x-www-form-urlencoded" } }
-        );
+      overpassPlaces = res.data.elements.map((el) => ({
+        id: el.id,
+        name: el.tags.name || "Unnamed",
+        lat: el.lat,
+        lon: el.lon,
+        type: el.tags.amenity || "Unknown",
+        city: "",
+        rating: 0,
+        parking: "no",
+        entrance: "no",
+        seating: "no",
+        toilet: "no",
+      }));
+    } catch (err) {
+      console.error("🌐 Overpass fetch failed", err);
+    }
 
-        const fetched = res.data.elements.map((el) => ({
-          id: el.id,
-          name: el.tags.name || "Unnamed",
-          lat: el.lat,
-          lon: el.lon,
-          type: el.tags.amenity || "Unknown",
-          city: "",
-          rating: 0,
-          parking: "no",
-          entrance: "no",
-          seating: "no",
-          toilet: "no",
-        }));
+    // Combine and set
+    setPlaces([...overpassPlaces, ...manualPlaces]);
+  };
 
-        setPlaces([...fetched, ...manualPlaces]);
-      } catch (err) {
-        console.error("Error fetching from Overpass:", err);
-        setPlaces(manualPlaces); // fallback
-      }
-    };
-
-    loadPlaces();
-  }, []);
+  loadPlaces();
+}, []);
 
   useEffect(() => {
     setFilteredPlaces(places);

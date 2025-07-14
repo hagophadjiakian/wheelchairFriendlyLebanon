@@ -1,0 +1,19 @@
+{
+  "id": 1752433383339,
+  "name": "Kampaï",
+  "lat": 33.899075,
+  "lon": 35.500662,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01999093",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n❌ No accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "no",
+  "seating": "yes",
+  "toilet": "no"
+}

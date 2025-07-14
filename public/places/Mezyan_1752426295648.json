@@ -1,0 +1,19 @@
+{
+  "id": 1752426295648,
+  "name": "Mezyan",
+  "lat": 33.895592,
+  "lon": 35.484016,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 71293015",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

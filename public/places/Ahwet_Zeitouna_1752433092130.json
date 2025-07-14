@@ -1,0 +1,19 @@
+{
+  "id": 1752433092130,
+  "name": "Ahwet Zeitouna",
+  "lat": 33.903371,
+  "lon": 35.498714,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01370356",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

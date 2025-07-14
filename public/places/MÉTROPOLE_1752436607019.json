@@ -1,0 +1,19 @@
+{
+  "id": 1752436607019,
+  "name": "MÉTROPOLE",
+  "lat": 33.901078,
+  "lon": 35.500517,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01999938",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

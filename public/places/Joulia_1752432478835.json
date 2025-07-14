@@ -1,0 +1,19 @@
+{
+  "id": 1752432478835,
+  "name": "Joulia",
+  "lat": 33.891403,
+  "lon": 35.512936,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "https://jouliabeirut.com/",
+  "contact": "+961 70187833",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n❌ No accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "no",
+  "toilet": "no"
+}

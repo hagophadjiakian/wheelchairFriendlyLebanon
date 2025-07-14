@@ -1,0 +1,19 @@
+{
+  "id": 1752433258194,
+  "name": "The Bros",
+  "lat": 33.897254,
+  "lon": 35.527135,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01570297",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

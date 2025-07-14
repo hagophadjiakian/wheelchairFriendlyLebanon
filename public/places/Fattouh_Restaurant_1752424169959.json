@@ -1,0 +1,19 @@
+{
+  "id": 1752424169959,
+  "name": "Fattouh Restaurant",
+  "lat": 33.9040695,
+  "lon": 35.496513,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01368333",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n❌ No accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "no",
+  "seating": "yes",
+  "toilet": "no"
+}

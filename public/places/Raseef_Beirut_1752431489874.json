@@ -1,0 +1,19 @@
+{
+  "id": 1752431489874,
+  "name": "Raseef Beirut",
+  "lat": 33.897325,
+  "lon": 35.480835,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "http://raseef-beirut.com/menu",
+  "contact": "+961 01340081",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

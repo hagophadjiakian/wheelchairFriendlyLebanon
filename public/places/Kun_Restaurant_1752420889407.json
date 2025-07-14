@@ -1,0 +1,19 @@
+{
+  "id": 1752420889407,
+  "name": "Kun Restaurant",
+  "lat": 33.9004126,
+  "lon": 35.497772,
+  "type": "restaurant/cafe",
+  "image": "https://www.google.com/maps/place/Kun+Restaurant/@33.9002979,35.500357,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEI2A2vSs_5yh3gE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4npkyi5beOM4qxEFkryPJXZ4mLs_zEY1_-ZGKKbgeVwm6kJDYkJMHODfYzgTz9p8Q9h_wHjs4n6mqDxEz2PA2qEDF7kAPIxIV_H0FxjzOjpPyY3kMxxmeXRAoxtxh1ek8xEI8KHXqw%3Dw86-h109-k-no!7i1080!8i1375!4m17!1m9!3m8!1s0x151f1762bb95901f:0x281eb97a443c0240!2sKun+Restaurant!8m2!3d33.9004082!4d35.5003523!9m1!1b1!16s%2Fg%2F11qpv3ngcx!3m6!1s0x151f1762bb95901f:0x281eb97a443c0240!8m2!3d33.9004082!4d35.5003523!10e5!16s%2Fg%2F11qpv3ngcx?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+  "link": "",
+  "contact": "+961 01986786",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

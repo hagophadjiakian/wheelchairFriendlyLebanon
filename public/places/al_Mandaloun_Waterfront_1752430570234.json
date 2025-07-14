@@ -1,0 +1,19 @@
+{
+  "id": 1752430570234,
+  "name": "al Mandaloun Waterfront",
+  "lat": 33.905509,
+  "lon": 35.510817,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 03400404",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1752422459527,
+  "name": "The Beirut Cellar",
+  "lat": 33.8911281,
+  "lon": 35.5103197,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 76686006",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n❌ No accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "no",
+  "seating": "yes",
+  "toilet": "no"
+}

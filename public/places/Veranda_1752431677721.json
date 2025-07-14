@@ -1,0 +1,19 @@
+{
+  "id": 1752431677721,
+  "name": "Veranda",
+  "lat": 33.891848,
+  "lon": 35.518917,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01332888",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n❌ No accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "no",
+  "toilet": "no"
+}

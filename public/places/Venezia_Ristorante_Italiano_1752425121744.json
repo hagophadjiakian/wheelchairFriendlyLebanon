@@ -1,0 +1,19 @@
+{
+  "id": 1752425121744,
+  "name": "Venezia Ristorante Italiano",
+  "lat": 33.8701751,
+  "lon": 35.5349004,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01516540",
+  "city": "sin el fil ",
+  "caza": "maten ",
+  "province": "mount lebanon",
+  "rating": 3,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n❌ No accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "no",
+  "toilet": "no"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1752436371676,
+  "name": "Cozmo Café",
+  "lat": 33.903135,
+  "lon": 35.498554,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01361650",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

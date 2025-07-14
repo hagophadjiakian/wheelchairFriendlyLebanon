@@ -1,0 +1,19 @@
+{
+  "id": 1752429868513,
+  "name": "Luigi Cucina Italiana",
+  "lat": 33.892189,
+  "lon": 35.515151,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01218622",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1752428591745,
+  "name": "Lily's",
+  "lat": 33.898923,
+  "lon": 35.501257,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 03786858",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

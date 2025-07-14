@@ -1,0 +1,19 @@
+{
+  "id": 1752432282370,
+  "name": "Leila Min Lebnen Achrafieh",
+  "lat": 33.888576,
+  "lon": 35.520129,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "https://www.leilarestaurant.com/",
+  "contact": "+961 01216890",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

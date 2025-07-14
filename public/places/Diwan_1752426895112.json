@@ -1,0 +1,19 @@
+{
+  "id": 1752426895112,
+  "name": "Diwan",
+  "lat": 33.892235,
+  "lon": 35.521068,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "https://diwanbeirut.com/",
+  "contact": "+961 01565757",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1752432020938,
+  "name": "Ritage Garden",
+  "lat": 33.891409,
+  "lon": 35.510457,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "http://www.ritagegarden.com/",
+  "contact": "+961 71030100",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1752434331107,
+  "name": "Place de l'Étoile",
+  "lat": 33.896614,
+  "lon": 35.504529,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01980650",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n❌ No accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "no",
+  "toilet": "no"
+}

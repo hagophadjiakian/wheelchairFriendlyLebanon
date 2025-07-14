@@ -1,0 +1,19 @@
+{
+  "id": 1752435024123,
+  "name": "People Restaurant",
+  "lat": 33.898793,
+  "lon": 35.505667,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01991111",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n❌ No accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "no",
+  "toilet": "no"
+}

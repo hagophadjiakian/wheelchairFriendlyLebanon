@@ -1,0 +1,19 @@
+{
+  "id": 1752426656594,
+  "name": "Leila Restaurant Zaitunay Bay مطعم ليلى",
+  "lat": 33.901671,
+  "lon": 35.496692,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "https://www.leilarestaurant.com/",
+  "contact": "+961 01371517",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

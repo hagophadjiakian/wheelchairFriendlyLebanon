@@ -1,0 +1,19 @@
+{
+  "id": 1752428015401,
+  "name": "Bazalt ",
+  "lat": 33.892013,
+  "lon": 35.518402,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 76704444",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n❌ No accessible entrance\n❌ No accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "no",
+  "seating": "no",
+  "toilet": "yes"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1752432623490,
+  "name": "NOW",
+  "lat": 33.891643,
+  "lon": 35.515113,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01211122",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 2,
+  "review": "❌ No accessible parking\n❌ No accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "no",
+  "seating": "yes",
+  "toilet": "no"
+}

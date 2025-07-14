@@ -1,0 +1,19 @@
+{
+  "id": 1752428474019,
+  "name": "Em Sherif Cafe",
+  "lat": 33.901136,
+  "lon": 35.50166,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "http://www.emsherif-cafe.com/",
+  "contact": "+961 78988989",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1752423915991,
+  "name": "BeBabel",
+  "lat": 33.900955,
+  "lon": 35.4977783,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01989601",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n❌ No accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "yes",
+  "entrance": "no",
+  "seating": "yes",
+  "toilet": "yes"
+}

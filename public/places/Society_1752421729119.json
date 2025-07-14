@@ -1,0 +1,19 @@
+{
+  "id": 1752421729119,
+  "name": "Society",
+  "lat": 33.894433,
+  "lon": 35.5076559,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01581999",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 5,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

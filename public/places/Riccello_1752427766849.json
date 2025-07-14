@@ -1,0 +1,19 @@
+{
+  "id": 1752427766849,
+  "name": "Riccello",
+  "lat": 33.893279,
+  "lon": 35.508875,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 03652532",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}

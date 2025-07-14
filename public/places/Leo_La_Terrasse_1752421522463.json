@@ -1,0 +1,19 @@
+{
+  "id": 1752421522463,
+  "name": "Leo La Terrasse",
+  "lat": 33.9019328,
+  "lon": 35.5004807,
+  "type": "restaurant/cafe",
+  "image": "https://www.google.com/maps/place/Leo+La+Terrasse/@33.9019328,35.5004187,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgMCwsOvFiwE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4npRoljUkNMupJtXH7iXBsvTdMZWccrtZZZqLtIOBZ1U2ogKRV0yzd8xItdxaSzGVnRCbWZaZHuNG4TtlXYrcTXNq_hx9rjFsgUSqGa5UQ8rXRsEqoLeHIZk0fB7uU8vkLH8ac9OyA%3Dw86-h114-k-no!7i3060!8i4080!4m16!1m8!3m7!1s0x151f17883fd7acbb:0xc63c355c2c2d85ea!2sLeo+La+Terrasse!8m2!3d33.9019328!4d35.5004807!10e1!16s%2Fg%2F11kb1zwlgg!3m6!1s0x151f17883fd7acbb:0xc63c355c2c2d85ea!8m2!3d33.9019328!4d35.5004807!10e5!16s%2Fg%2F11kb1zwlgg?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+  "link": "",
+  "contact": "+961 70991177",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 4,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

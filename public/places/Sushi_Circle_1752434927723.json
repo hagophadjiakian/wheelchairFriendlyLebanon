@@ -1,0 +1,19 @@
+{
+  "id": 1752434927723,
+  "name": "Sushi Circle",
+  "lat": 33.892129,
+  "lon": 35.523096,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 01446943",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n❌ No accessible seating\n✅ Accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "no",
+  "toilet": "yes"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1752422743607,
+  "name": "Barn",
+  "lat": 33.8949749,
+  "lon": 35.5156604,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "http://www.thebarnbeirut.com/",
+  "contact": "+961 01449902",
+  "city": "beirut",
+  "caza": "beirut",
+  "province": "beirut",
+  "rating": 3,
+  "review": "❌ No accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n❌ No accessible toilet",
+  "parking": "no",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "no"
+}

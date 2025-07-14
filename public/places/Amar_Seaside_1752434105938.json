@@ -1,0 +1,19 @@
+{
+  "id": 1752434105938,
+  "name": "Amar Seaside",
+  "lat": 33.914261,
+  "lon": 35.581938,
+  "type": "restaurant/cafe",
+  "image": "",
+  "link": "",
+  "contact": "+961 81710300",
+  "city": "antelias",
+  "caza": "maten",
+  "province": "mount lebanon",
+  "rating": 5,
+  "review": "✅ Accessible parking\n✅ Accessible entrance\n✅ Accessible seating\n✅ Accessible toilet",
+  "parking": "yes",
+  "entrance": "yes",
+  "seating": "yes",
+  "toilet": "yes"
+}
